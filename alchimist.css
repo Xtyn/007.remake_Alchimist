@@ -1,0 +1,15 @@
+.ingredient-button {
+    background-color: orange;
+    font-weight: bold;
+    color: rgb(77, 126, 77);
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.make-reset-button {
+    background-color: rgb(38, 48, 192);
+    font-weight: bold;
+    color: rgb(226, 166, 179);
+    font-size: 20px;
+    cursor: pointer; 
+}
